@@ -43,6 +43,10 @@ section.features {
     padding: 0.5em;
 }
 
+.nav {
+    text-align: center;
+}
+
 footer {
     background-color: white;
     text-align: center;
